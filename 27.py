@@ -1,2 +1,2 @@
 a=raw_input("")
-print(a.swapcase())
+print (a.swapcase())
